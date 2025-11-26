@@ -35,13 +35,13 @@ https://www.figma.com/design/iNwU0WqkemjpKaxECFLPEV/Currency-Converter--Communit
 1. Скачайте или клонируйте проект
 
    ```bash
-   git clone https://github.com/your-name/currency-converter.git
+   git clone https://github.com/ali-nur31/web-currency-converter.git
    ```
 
 2. Перейдите в папку проекта
 
    ```bash
-   cd currency-converter
+   cd web-currency-converter
    ```
 
 3. Добавьте свой API ключ в `script.js`
